@@ -1,4 +1,4 @@
-For get start using the engine of browser, run:
+To get start using the engine of browser, run:
 
 -- npm run test:browser  --
 
